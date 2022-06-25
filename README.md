@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+`REACT_APP_URL_API="https://admin.p-up.ru/api/v1" REACT_APP_MEDIA="https://admin.p-up.ru/media"`
+
 ## Available Scripts
 
 In the project directory, you can run:
