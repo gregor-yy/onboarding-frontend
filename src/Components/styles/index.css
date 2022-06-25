@@ -1,0 +1,17 @@
+*::-webkit-scrollbar {
+  width: 5px;
+  background-color: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 20px;
+}
+
+.post {
+  cursor: help;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,10 @@
+.swiperTrack .swiper {
+  width: 100%;
+}
+
+.swiperTrack .swiper-slide {
+  width: auto;
+}
+.swiperTrack .swiper-slide:last-child {
+  margin-right: 80px;
+}
